@@ -1,0 +1,11 @@
+name: dask
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - jupyterlab
+  - dask  
+  - distributed
+  - pyarrow
+  - python-graphviz
